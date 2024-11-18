@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+Box It/.idea/
+
+Classes and Objects/.idea/
+
+Variable Sized Arrays/.idea/

@@ -1,0 +1,3 @@
+C:/Development/HackerRank/Box It/cmake-build-debug/CMakeFiles/Box_It.dir
+C:/Development/HackerRank/Box It/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/HackerRank/Box It/cmake-build-debug/CMakeFiles/rebuild_cache.dir
