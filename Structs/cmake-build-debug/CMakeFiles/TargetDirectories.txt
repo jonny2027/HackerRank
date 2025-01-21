@@ -1,0 +1,3 @@
+C:/Development/HackerRank/structs/cmake-build-debug/CMakeFiles/structs.dir
+C:/Development/HackerRank/structs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/HackerRank/structs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
